@@ -1,7 +1,7 @@
 # TAE Laravel5.x 镜像
 FROM centos
 
-[TAE](http://tae.taobao.com/)自定义镜像 Apache在webssh上修改下`/etc/httpd/conf/httpd.conf`即可。
+[TAE](http://tae.taobao.com/)自定义镜像  [docs](http://plus.wx.jaeapp.com/qp/question/1) 
 
 ##### 工具
 composer  
