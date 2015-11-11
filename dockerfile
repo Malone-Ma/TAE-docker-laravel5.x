@@ -1,4 +1,4 @@
-#FORM centos
+#FROM centos
 
 RUN yum -y update
 
